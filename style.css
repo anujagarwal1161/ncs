@@ -1,0 +1,32 @@
+*
+{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+}
+.image
+{
+    background:url('/img.jpg') no-repeat center/cover;
+    width:100vh;
+    height:80vh;
+}
+.font
+{
+    font-size: 1000;
+}
+.container
+{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin:0px 200px;
+}
+.heading
+{
+    padding:20px;
+}
+.par
+{
+  line-height: 1.5rem;  
+}

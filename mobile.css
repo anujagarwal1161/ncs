@@ -1,0 +1,14 @@
+@media screen and (max-width:768px)
+{
+    .container
+    {
+        display:flex;
+        justify-content: first baseline;
+        width:100vh;
+        height:50vh;
+    }
+    .par
+    {
+        width:100%;
+    }
+}
